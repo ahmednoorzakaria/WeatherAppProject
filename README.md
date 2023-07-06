@@ -54,5 +54,4 @@ Pexels for providing the background image and weather icons.
 ## Contact
 For any questions or inquiries, please email zakariaahmednoor5@gmail.com
 
-## 
-Feel free to use this code snippet to update the README file of your WeatherApp project.
+## Feel free to use this code snippet to update the README file of your WeatherApp project.
